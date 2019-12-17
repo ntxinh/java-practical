@@ -13,7 +13,7 @@
         <objectify.version>5.1.12</objectify.version>
         <spring.version>4.3.10.RELEASE</spring.version>
         <spring.boot.version>1.5.6.RELEASE</spring.boot.version>
-        <spring.data.version>1.13.6.RELEASE</spring.data.version>
+        <spring.data.version>1.13.13.RELEASE</spring.data.version>
         <jackson.version>2.9.0</jackson.version>
         <commons.lang.version>2.3</commons.lang.version>
         <junit.version>4.12</junit.version>
