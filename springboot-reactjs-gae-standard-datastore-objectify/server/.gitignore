@@ -1,0 +1,46 @@
+# Common file
+**/data/*.db
+
+# Log file
+**/logs
+
+# Compiled class file
+**/target/
+**/bin/
+
+# MAVEN
+**/.mvn
+**/pom.xml.versionsBackup
+
+# GRADLE
+**/.gradle
+
+# STS
+**/.apt_generated
+**/.classpath
+**/.factorypath
+**/.project
+**/.settings
+**/.springBeans
+
+# IntelliJ IDEA
+**/.idea
+**/*.iws
+**/*.iml
+**/*.ipr
+
+# NetBeans
+**/nbproject/private/
+**/build/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+
+# Package Files
+**.jar
+**.war
+**.ear
+**.zip
+**.tar.gz
+**.rar
