@@ -16,7 +16,7 @@
         <spring.data.version>1.13.6.RELEASE</spring.data.version>
         <jackson.version>2.9.0</jackson.version>
         <commons.lang.version>2.3</commons.lang.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
